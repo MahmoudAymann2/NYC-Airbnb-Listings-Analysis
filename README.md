@@ -1,7 +1,6 @@
 This project involves an analysis of Airbnb listings in New York City. The dataset used for this project contains detailed information about various Airbnb listings in NYC, including features such as the host information, location, price, number of reviews, and more. The goal of this analysis is to uncover insights about the Airbnb market in NYC and visualize trends and patterns.
 
 Dataset:
-
 The dataset used in this analysis is the AB_NYC_2019.ipynb file, which includes:
 
 Host ID and name
